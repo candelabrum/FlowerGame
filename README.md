@@ -1,3 +1,2 @@
 # FlowerGame
 
-print hello world
